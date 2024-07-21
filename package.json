@@ -1,0 +1,13 @@
+{
+  "name": "pkg-test",
+  "version": "0.0.1",
+  "description": "A Packagist Test Repo",
+  "main": "index.js",
+  "scripts": {
+    "version": "git add .",
+    "postversion": "git push && git push --tags",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

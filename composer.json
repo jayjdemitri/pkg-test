@@ -1,0 +1,20 @@
+{
+    "name": "jayjdemitri/pkg-test",
+    "description": "A Packagist Test Repo",
+    "version": "0.0.0",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jayjdemitri\\PkgTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jayjdemitri",
+            "email": "jaydemitri24@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
