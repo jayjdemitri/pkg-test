@@ -1,7 +1,6 @@
 {
     "name": "jayjdemitri/pkg-test",
     "description": "A Packagist Test Repo",
-    "version": "0.0.0",
     "type": "project",
     "license": "MIT",
     "autoload": {
